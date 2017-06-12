@@ -105,7 +105,7 @@ CastPlayer.prototype.initializeCastPlayer = function() {
     // Set the receiver application ID to your own (created in the
     // Google Cast Developer Console), or optionally
     // use the chrome.cast.media.DEFAULT_MEDIA_RECEIVER_APP_ID
-    options.receiverApplicationId = 'D78DFD48';
+    options.receiverApplicationId = '7DA699F7';
     // D78DFD48 CastReferencePlayer053017
     // 7DA699F7 styl053017
     // 52BD7C09 styl_mycssOnGitH
